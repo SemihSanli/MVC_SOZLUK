@@ -1,0 +1,12 @@
+C:\Users\Semih\source\repos\MVCProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Semih\source\repos\MVCProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Semih\source\repos\MVCProjeKampi\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Semih\source\repos\MVCProjeKampi\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\Semih\source\repos\MVCProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Semih\source\repos\MVCProjeKampi\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\Semih\source\repos\MVCProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Semih\source\repos\MVCProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Semih\source\repos\MVCProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Semih\source\repos\MVCProjeKampi\EntityLayer\obj\Debug\EntityLa.DA06A3F2.Up2Date
+C:\Users\Semih\source\repos\MVCProjeKampi\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Semih\source\repos\MVCProjeKampi\EntityLayer\obj\Debug\EntityLayer.pdb
