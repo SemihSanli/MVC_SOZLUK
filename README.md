@@ -33,6 +33,27 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Youtube'da bulunan "MVC Proje 
 ![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/1dbb1602f0bb8c6e0c55a97a0b1c429195220e99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141022.png)
 
 ## 📣  Başlıklar Paneli
-### ➤  Admin, giriş yapılmış tüm bilgileri görüntüleyebilir. Sağ tarafta bulunan "Yazılar" butonu ile, ilgili başlığa ait yazıları görüntüleyebilir. "Düzenle" butonu ile bir düzenleme sayfası açılır ve bu sayfaya Kayıtlı Veri'nin tüm bilgileri açılan sayfaya otomatik şekilde yüklenir. Admin burada, değişiklik yapılması gereken verileri günceller. "Sil" butonu ile birlikte başlıkları aktif-pasif olarak değiştirebilir.
+### ➤  Admin, giriş yapılmış tüm bilgileri görüntüleyebilir. Sağ tarafta bulunan "Yazılar" butonu ile, ilgili başlığa ait yazıları görüntüleyebilir.  "Sil" butonu ile birlikte başlıkları aktif-pasif olarak değiştirebilir.
 ![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/1dbb1602f0bb8c6e0c55a97a0b1c429195220e99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141036.png)
 
+## 🔄 Başlık Güncelleme Paneli
+### ➤ "Düzenle" butonu ile bir düzenleme sayfası açılır ve bu sayfaya Kayıtlı Veri'nin tüm bilgileri açılan sayfaya otomatik şekilde yüklenir. Admin burada, değişiklik yapılması gereken verileri günceller.
+ ![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/d3502d8fc485e1862d924a2adbf1b558e6887e33/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141105.png)  
+## 📣  Yazılar Paneli
+### ➤  Admin, girilmiş olan tüm içerikleri buradan görüntüleyebilir
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/d3502d8fc485e1862d924a2adbf1b558e6887e33/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141049.png)
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/d3502d8fc485e1862d924a2adbf1b558e6887e33/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141056.png)
+
+## ✍🏼 Yazarlar Bölümü
+### ➤ Admin kayıtlı yazarları burada görüntüler, dilerse yazarların yazılarını görüntüleyebilir.
+
+ ![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/d3502d8fc485e1862d924a2adbf1b558e6887e33/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141115.png)  
+
+## 🔄 Yazar Profil Düzenleme Paneli
+### ➤ Yazara ait girilmiş bilgiler üzerinde gerekli değişiklikleri yapmak için bu paneli kullanır.
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/d3502d8fc485e1862d924a2adbf1b558e6887e33/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141127.png)
+
+
+## ℹ️ Hakkımızda Paneli
+### ➤ Admin Kayıtlı olan Hakkımızda yazılarını görüntüler, Dilerse yeni veri girişi yapabilir veya mevcut verileri güncelleyip silebilir.
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/d3502d8fc485e1862d924a2adbf1b558e6887e33/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141138.png)
