@@ -16,3 +16,23 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Youtube'da bulunan "MVC Proje 
 
 
 
+
+# 🧑🏻‍💻 Admin Paneli
+
+## 🔓 LogIn Paneli
+### ➤  Admin olarak yetkilendirilmiş kişilerin giriş yapıp admin paneline ulaşmasını sağlayan sayfadır. Buradaki giriş bilgileri, veri tabanındaki bilgiler ile doğru orantılı olarak dinamik bir halde değişmektedir. Bu durumu elde etmek için ise Session yapısını kullandım. 
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/1dbb1602f0bb8c6e0c55a97a0b1c429195220e99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20140641.png)
+
+## 🏷️ Kategori Paneli
+### ➤  Yetkilendirilip girişi başarı ile tamamlayan admin'in karşılaşacağı ilk panel olan kategori panelinde mevcut kategorileri görüntüleyip, ilgili butonlar aracılığı ile CRUD işlemlerini yapabilir. Başlıklar butonu ile, ilgili kategorideki başlıkları görüntüleyebilir. Silme butonu ile veriyi tamamen silmek yerine aktif-pasif durumları arasında geçiş yapabilir. Dilerse verileri de güncelleyebilir
+
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/1dbb1602f0bb8c6e0c55a97a0b1c429195220e99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20140710.png)
+
+## ➕  Yeni Kategori Ekleme Paneli
+### ➤  Admin, kategori adını ve ilgili açıklamayı yazarak yeni bir kategori girişi yapabilir
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/1dbb1602f0bb8c6e0c55a97a0b1c429195220e99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141022.png)
+
+## 📣  Başlıklar Paneli
+### ➤  Admin, giriş yapılmış tüm bilgileri görüntüleyebilir. Sağ tarafta bulunan "Yazılar" butonu ile, ilgili başlığa ait yazıları görüntüleyebilir. "Düzenle" butonu ile bir düzenleme sayfası açılır ve bu sayfaya Kayıtlı Veri'nin tüm bilgileri açılan sayfaya otomatik şekilde yüklenir. Admin burada, değişiklik yapılması gereken verileri günceller. "Sil" butonu ile birlikte başlıkları aktif-pasif olarak değiştirebilir.
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/1dbb1602f0bb8c6e0c55a97a0b1c429195220e99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141036.png)
+
