@@ -114,8 +114,9 @@ namespace MVCProjeKampi.Controllers
             return RedirectToAction("MyHeading");
         }
       
-        public ActionResult AllHeading(int p )
+        public ActionResult AllHeading()
         {
+           
             var headings = hm.GetList();
             return View(headings);
         }
