@@ -3,18 +3,26 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Youtube'da bulunan "MVC Proje 
 
 # 💠 Projenin Özellikleri
 ## ⭕ Kod tekrarını azaltmak için N-Katmanlı Mimari ve SOLID Prensiplerine başvurdum
+
 ## ⚪ Projem bu bağlamda 4 farklı katmandan oluşmaktadır. Bunlar;
 ### 🔸 Presentation Layer (Sunum Katmanı) :  Kullanıcıya sunulan arayüzü barındırır
 ### 🔸 Business Logic Layer (İş Mantığı Katmanı) : Uygulamanın kurallarını ve iş mantığını barındırır
 ### 🔸 Data Access Layer (Veri Erişim Katmanı) : Veri tabanı ile uygulama arasında bağlantı kurmayı sağlayan katmandır
 ### 🔸 Entity Layer (Varlık Katmanı) :  Codefirst yaklaşımını barındıran ve verilen saklandığı bir katmandır. 
+
 ## 🟣 Projem 4 farklı amaca uygun bölüme sahiplik yapmaktadır. Bunlar ise;
 ### 🔹 Admin Paneli : Adminler'in giriş yaptığı ve kategori,başlık,yazı,yazar,mesaj ve yetkilendirme alanlarında CRUD İşlemlerini yaptığı bölümdür.
 ### 🔹 Yazar Paneli : Yazarlar tarafından görüntülenen bu sayfada; yeni başlık oluşturma,mevcut başlıklar altına yazı yazma,diğer yazarlar arasında mesajlaşma ve mevcuttaki profilleri için düzenleme yapmasını sağlar.
 ### 🔹 Sözlük Paneli : Yetkilendirme ile birlikte login işlemi yapılmadan herkesin girip tüm başlıklar altındaki yazıları görüntüleyebildiği bölümdür.
 ### 🔹 Ana Sayfa - Vitrin Sayfası : Projede kullandığım yaklaşımlar,teknolojiler ve izlediğim yolların bulunduğu. Birnevi proje'nin özeti niteliğinde olan bölümdür.
 
-
+## 🔵 Projede kullandığım teknolojiler
+### ✶ C#
+### ✶ Entity Framework CodeFirst Yapısı
+### ✶ C# Asp.Net MVC
+### ✶ Kurumsal Mimari
+### ✶ SOLID Prensipleri
+### ✶ SQL Veri Tabanı
 
 
 # 🧑🏻‍💻 Admin Paneli
@@ -58,7 +66,7 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Youtube'da bulunan "MVC Proje 
 ### ➤ Admin Kayıtlı olan Hakkımızda yazılarını görüntüler, mevcut verileri güncelleyip silebilir.
 ![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/d3502d8fc485e1862d924a2adbf1b558e6887e33/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141138.png)
 
-## ➕  Yeni Kategori Ekleme Paneli
+## ➕  Yeni Hakkımda Ekleme Paneli
 ### ➤ Dilerse yeni hakkımızda girişi yapabilir. Buradaki hakkımızda girişi için Pop-Up yapısını kullandım.
 ![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/dddc2a4d37c87d14190d623cc7b739c7d8135fb8/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141144.png)
 
@@ -100,6 +108,7 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Youtube'da bulunan "MVC Proje 
 ## 📣 Başlıklarım Paneli
 ### ➤ Yazar, "İçerikler" bölümü ile kendisinin açmış olduğu başlıkları görüntüler. İsterse "Yeni Başlık Ekle" bölümünden yeni başlık girişi yapabilir, "Düzenle" bölümünden mevcut başlık bilgilerini düzenler "Sil" bölümünden başlığı aktif-pasif hale getirebilir.
 ![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/0c4eecef50fc2d009100d400d156a80576a5e791/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20142026.png)
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/0c6b0fdb16c1b324ab3e13648c7aab0a37752b41/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20143303.png)
 
 ## 📣 Tüm Başlıklar Paneli
 ### ➤ Yazar, girilmiş olan tüm başlıkları burada görüntüleyebilir. "Bu Başlığa Yaz" bölümü ile başlığa yorum yapabilir.
