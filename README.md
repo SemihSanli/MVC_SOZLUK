@@ -67,7 +67,22 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Youtube'da bulunan "MVC Proje 
 ### ➤ Adminler, gelen mesajlar bölümünden yazarlardan taraflarına iletilen mesajları görüntüleyebilir. Gönderilen mesajlarda ise adminler, yazarlara gönderdiği mesajları görebilir. Listelenen mesajlara tıklayarak içeriği görüntüleyebilir. 
 ![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/dddc2a4d37c87d14190d623cc7b739c7d8135fb8/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141203.png)
 
-## 🔑 Yetkilendirme Bölümü
+## 🔑 Yetkilendirme Paneli
 ### ➤ Yetkilendirilmiş Adminler  burada görüntülenir, istenilirse "Yeni Admin Tanımla" butonu ile yetkilendirmeleri yapıp, mevcut yetkilendirme bilgilerini güncelleyebilir ve silme işlemi yapılabilir.
 ![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/dddc2a4d37c87d14190d623cc7b739c7d8135fb8/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141221.png)
+
+## 🚫 Hata Sayfası Paneli
+### ➤ Hata alınan sayfalar için hataları listeleyebiliriz.
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/c9c0e2a27ab8180929e7f699e89fa2ee5214c7ff/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141349.png)
+
+## 🎯Yetenek Kartım Paneli
+### ➤ Burada, kendime ait bir yetenek kartım bulunmaktadır. Bilgi sahibi olduğum konular ve dereceleri burada listelenmektedir.
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/c9c0e2a27ab8180929e7f699e89fa2ee5214c7ff/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141338.png)
+
+## 🌐 Siteye Git Bölümü
+### ➤ Bu bölümü kullanarak Anasayfaya ulaşabilirsiniz
+
+
+# ✍🏼 Admin Paneli
+
 
