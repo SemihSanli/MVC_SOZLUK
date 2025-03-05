@@ -62,6 +62,9 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Youtube'da bulunan "MVC Proje 
 ### ➤ Dilerse yeni hakkımızda girişi yapabilir. Buradaki hakkımızda girişi için Pop-Up yapısını kullandım.
 ![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/dddc2a4d37c87d14190d623cc7b739c7d8135fb8/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141144.png)
 
+## 📋  Raporlar Paneli
+### ➤ Tamamlanan Projedeki verilerin raporlandığı paneldir
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/0c6b0fdb16c1b324ab3e13648c7aab0a37752b41/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141356.png)
 
 ## 📨 Mesajlar Paneli
 ### ➤ Adminler, gelen mesajlar bölümünden yazarlardan taraflarına iletilen mesajları görüntüleyebilir. Gönderilen mesajlarda ise adminler, yazarlara gönderdiği mesajları görebilir. Listelenen mesajlara tıklayarak içeriği görüntüleyebilir. 
@@ -103,9 +106,64 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Youtube'da bulunan "MVC Proje 
 ![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/0c4eecef50fc2d009100d400d156a80576a5e791/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20143052.png)
 
 
-## 📣 Yazılarım Paneli
-### ➤ Yazar, girilmiş olan tüm başlıkları burada görüntüleyebilir. "Bu Başlığa Yaz" bölümü ile başlığa yorum yapabilir.
-![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/0c4eecef50fc2d009100d400d156a80576a5e791/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20143052.png)
+## 📝 Yazılarım Paneli
+### ➤ Yazar, kendisinin girmiş olduğu tüm yazıları burada görüntüler
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/0c6b0fdb16c1b324ab3e13648c7aab0a37752b41/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20142045.png)
 
+
+## 📨 Mesajlar Paneli
+### ➤ Adminler, gelen mesajlar bölümünden yazarlardan taraflarına iletilen mesajları görüntüleyebilir. Gönderilen mesajlarda ise adminler, yazarlara gönderdiği mesajları görebilir. Listelenen mesajlara tıklayarak içeriği görüntüleyebilir. 
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/dddc2a4d37c87d14190d623cc7b739c7d8135fb8/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141203.png)
+
+## 🌐 Siteye Git Paneli
+### ➤ Bu bölümü kullanarak Anasayfaya ulaşabilirsiniz
+
+# 🌐 Anasayfa Paneli 
+
+## 💻 Açılış Paneli
+
+
+### ➤ Burada kendime ait bilgiler bulunmaktadır. 
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/0c6b0fdb16c1b324ab3e13648c7aab0a37752b41/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20143619.png)
+
+
+## 💻 Kullandığım Geliştirme Bileşenleri Paneli
+
+
+### ➤ Üzerinde çalıştığım projede kullandığım teknolojiler burada yer almaktadır. 
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/0c6b0fdb16c1b324ab3e13648c7aab0a37752b41/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20143632.png)
+
+## 💻 Projede Neler Yaptım Paneli
+
+
+### ➤ Projeyi geliştirirken üstünden geçtiğim işlemleri burada açıklamaya çalıştım.
+
+![ImageAlt](https://github.com/SemihSanli/MVC_SOZLUK/blob/0c6b0fdb16c1b324ab3e13648c7aab0a37752b41/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20143638.png)
+
+
+## 💻 Görseller Paneli
+
+
+### ➤ Projeye ait görseller burada bulunur.
+
+![ImageAlt](https://github.com/SemihSanli/MVC_SOZLUK/blob/0c6b0fdb16c1b324ab3e13648c7aab0a37752b41/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20143652.png)
+
+## 📊 İstatistik Ve Notlar Paneli
+### ➤ Projeye ait istatistiksel veriler ve eklediğim bazı küçük notlar burada görüntülenir.
+![ImageAlt](https://github.com/SemihSanli/MVC_SOZLUK/blob/0c6b0fdb16c1b324ab3e13648c7aab0a37752b41/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20143704.png)
+
+## 📩 İletişim Paneli
+### ➤ Sayfayı görüntüleyen kullanıcıların Adminlere ulaşmasını sağlayan paneldir.
+![ImageAlt](https://github.com/SemihSanli/MVC_SOZLUK/blob/0c6b0fdb16c1b324ab3e13648c7aab0a37752b41/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20143711.png)
+
+
+#  💰 Bu Proje Bana Neler Kattı;
+## ⭐SOLID Yapısnı öğrenmemi ve pekiştirmemi
+## ⭐N katmanlı mimari ile nasıl proje geliştirilip, mimarinin nasıl kurulacığını öğrenmemi ve pekiştirmemi
+## ⭐Pop-Up yapısını pekiştirmemi
+## ⭐Validation kontrollerini pekiştirmemi
+## ⭐Asp.Net MVC Yapısını pekiştirmemi
+## ⭐Hata Sayfalarının eklenmesi ve  pekiştirmemi
+## ⭐CodeFirst İle Migration yapısını Pekiştirmemi
 
 
