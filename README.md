@@ -55,5 +55,19 @@ Eğitmenliğini Murat Yücedağ'ın üstlendiği, Youtube'da bulunan "MVC Proje 
 
 
 ## ℹ️ Hakkımızda Paneli
-### ➤ Admin Kayıtlı olan Hakkımızda yazılarını görüntüler, Dilerse yeni veri girişi yapabilir veya mevcut verileri güncelleyip silebilir.
+### ➤ Admin Kayıtlı olan Hakkımızda yazılarını görüntüler, mevcut verileri güncelleyip silebilir.
 ![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/d3502d8fc485e1862d924a2adbf1b558e6887e33/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141138.png)
+
+## ➕  Yeni Kategori Ekleme Paneli
+### ➤ Dilerse yeni hakkımızda girişi yapabilir. Buradaki hakkımızda girişi için Pop-Up yapısını kullandım.
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/dddc2a4d37c87d14190d623cc7b739c7d8135fb8/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141144.png)
+
+
+## 📨 Mesajlar Paneli
+### ➤ Adminler, gelen mesajlar bölümünden yazarlardan taraflarına iletilen mesajları görüntüleyebilir. Gönderilen mesajlarda ise adminler, yazarlara gönderdiği mesajları görebilir. Listelenen mesajlara tıklayarak içeriği görüntüleyebilir. 
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/dddc2a4d37c87d14190d623cc7b739c7d8135fb8/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141203.png)
+
+## 🔑 Yetkilendirme Bölümü
+### ➤ Yetkilendirilmiş Adminler  burada görüntülenir, istenilirse "Yeni Admin Tanımla" butonu ile yetkilendirmeleri yapıp, mevcut yetkilendirme bilgilerini güncelleyebilir ve silme işlemi yapılabilir.
+![Image Alt](https://github.com/SemihSanli/MVC_SOZLUK/blob/dddc2a4d37c87d14190d623cc7b739c7d8135fb8/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-05%20141221.png)
+
